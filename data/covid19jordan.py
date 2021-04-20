@@ -17,10 +17,3 @@ cd.drop('index',axis=1,inplace=True)
 
 cd.to_csv('covidmap.csv')
 
-cd=pd.read_csv('covidmap.csv')
-
-cd.drop('Unnamed: 0',axis=1,inplace=True)
-
-cd.to_csv('covidmap.csv')
-
-cd
