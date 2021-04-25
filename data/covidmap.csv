@@ -1,13 +1,13 @@
-,City,Confirmed,OBJECTID
-0,Mafraq,11601,1
-1,irbid ,48569,2
-2,Jerash,10033,3
-3,Ajloun,8875,4
-4,Zarqa,29600,5
-5,Amman,127108,6
-6,Balqa,14961,7
-7,Madaba,5650,8
-8,Karak,11085,9
-9,Tafilah,4659,10
-10,Maan,5003,11
-11,Aqaba,9079,12
+,City,Confirmed,OBJECTID,top Confirmed,today
+0,Mafraq,14256,1,648,77
+1,irbid ,60807,2,1804,328
+2,Jerash,12054,3,708,42
+3,Ajloun,10343,4,590,13
+4,Zarqa,34212,5,1127,41
+5,Amman,178282,6,3361,525
+6,Balqa,22106,7,605,52
+7,Madaba,7195,8,290,46
+8,Karak,12987,9,512,51
+9,Tafilah,5522,10,220,39
+10,Maan,5634,11,213,22
+11,Aqaba,10433,12,1893,23
