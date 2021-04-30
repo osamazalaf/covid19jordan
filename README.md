@@ -6,4 +6,4 @@ Our World Covid Tracker App : [Download the App in Pc](https://drive.google.com/
 
 Our Email : coviid19jo@gmail.com   For Send you Covid Jordan data via email.
 
-Oue SpreadSheets : [Covid19jo SpreadSheets](https://docs.google.com/forms/d/1j5K6ow5ru9q-Lfd3Qd5LGbcUaHOv5r-8YfOfJmQpWQk/edit)
+Our SpreadSheets : [Covid19jo SpreadSheets](https://docs.google.com/forms/d/1j5K6ow5ru9q-Lfd3Qd5LGbcUaHOv5r-8YfOfJmQpWQk/edit)
